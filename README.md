@@ -15,3 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # movieApp
+
+![Screenshot_1703531429](https://github.com/omarheeh/movieApp/assets/67519670/d3a30c12-c5f6-4913-9214-83c9c970d5ff)
