@@ -20,10 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 # BackEnd
 - movie api https://www.omdbapi.com/
 - firebase
-
-- زمي
-- زم
-- زم
+- 
 # movie Images
 
 |   |   |   |   |   |
