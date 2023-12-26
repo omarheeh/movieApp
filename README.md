@@ -16,6 +16,12 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # movieApp
 
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 ![Screenshot_1703531429](https://github.com/omarheeh/movieApp/assets/67519670/d3a30c12-c5f6-4913-9214-83c9c970d5ff)
 ![Screenshot_1703531441](https://github.com/omarheeh/movieApp/assets/67519670/f47ca1af-f681-4803-972d-1adec57bc127)
 ![Screenshot_1703531464](https://github.com/omarheeh/movieApp/assets/67519670/ffefffd7-012f-4a83-b8b4-ea2f6170f645)
