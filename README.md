@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - omar heeh
 
-- ز
+  
 # BackEnd
 - movie api https://www.omdbapi.com/
 - firebase
