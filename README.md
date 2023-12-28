@@ -28,7 +28,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - Bloc Architecture
   
-# movie Images
+# App Images
 
 |   |   |   |   |   |
 |---|---|---|---|---|
