@@ -1,6 +1,6 @@
 # movies_app
 
-A new Flutter project.
+An application that I developed myself that contains all the films with information for each film and an evaluation of each film on the most famous evaluation platforms with the ability to search and add films to favorites and contains the feature of creating a user account while taking advantage of the speed of Firebase.
 
 ## Getting Started
 
